@@ -1,0 +1,2 @@
+Hello, this is the first version of my practice project 
+Welcome to the world of Git
